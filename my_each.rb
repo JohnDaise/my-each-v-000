@@ -1,4 +1,5 @@
-def my_each(words){ |word| puts word}
+def my_each(words)
+  
 
 end
 # i = 0
