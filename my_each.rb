@@ -7,5 +7,3 @@ def my_each(array)
   end
 
 end
-# i = 0
-#  while i < words.length
